@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
     <a href="https://m.facebook.com/lorsokla"  target="_blank">
-    <img src="https://img.shields.io/badge/facebook-33333?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/facebook-f3233f?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/soklalor" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
