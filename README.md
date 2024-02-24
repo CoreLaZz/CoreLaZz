@@ -27,7 +27,7 @@
   <a href="[https://corelazz.github.io](https://github.com/CoreLaZz)" target="_blank">
      <img src="https://img.shields.io/badge/Github-f1f1f1?style=for-the-badge&logo=github&logoColor=black" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-    <a href="www.soklalor.me" target="_blank">
+    <a href="https://www.soklalor.me/" target="_blank">
      <img src="https://img.shields.io/badge/My Portfolio-FF5722?style=for-the-badge&logo=porfolio&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
